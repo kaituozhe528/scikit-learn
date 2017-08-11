@@ -166,5 +166,5 @@ Communication
 
 Citation
 ~~~~~~~~
-
+Good luck, Wei!
 If you use scikit-learn in a scientific publication, we would appreciate citations: http://scikit-learn.org/stable/about.html#citing-scikit-learn
